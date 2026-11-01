@@ -482,9 +482,9 @@ uv pip install google-adk
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html)
 
-### DevFest 2025
+### Google Cloud & Vertex AI
 
-- [DevFest Website](https://developers.google.com/community/devfest)
+- [Vertex AI Agent Builder Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview)
 - [Google Developer Groups](https://developers.google.com/community/gdg)
 - [Workshop Materials](https://gradus.dev/studio/labs/view/693125841a594a5445ccb6a4/693125841a594a5445ccb6a5)
 
