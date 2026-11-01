@@ -1,6 +1,6 @@
-# 🌍 TravelMate AI — DevFest Lahore 2025 Workshop 
+# 🌍 TravelMate AI — Budget-Smart Multi-Agent Travel Assistant
 
-[![DevFest 2025](https://img.shields.io/badge/DevFest-2025-blue?style=for-the-badge&logo=google)](https://developers.google.com/community/devfest)
+[![TravelMate AI](https://img.shields.io/badge/TravelMate_AI-Multi--Agent_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/RobinaMirbahar/TravelMate-AI)
 [![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google)](https://google.github.io/adk-docs/)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
@@ -10,10 +10,10 @@
 
 ---
 
-## 🎯 Why I Built TravelMate AI — DevFest Lahore 2025 Workshop (Engineering Purpose & Real-World Value)
+## 🎯 Why I Built TravelMate AI (Engineering Purpose & Real-World Value)
 
 ### 1. ✈️ Teaching Production Multi-Agent Orchestration Live on Stage
-I created TravelMate AI for my DevFest Lahore 2025 hands-on workshop to teach developers how to decompose complex user goals into specialized sub-agents using the Google Agent Development Kit (ADK).
+I created TravelMate AI as a production-minded multi-agent reference architecture to show developers how to decompose complex travel planning goals into specialized sub-agents using the Google Agent Development Kit (ADK) and Vertex AI.
 
 ### 2. 💵 Deterministic Budget & Itinerary Optimization
 Instead of generating vague travel blogs, my multi-agent pipeline coordinates a Flight/Route Scout, Accommodation Optimizer, and Budget Auditor that enforce hard currency and schedule constraints.
@@ -46,7 +46,7 @@ flowchart TD
 
 ---
 
-> 🎓 **Built with Google's Agent Development Kit (ADK)** at DevFest 2025
+> 🎓 **TravelMate AI — Built with Google's Agent Development Kit (ADK) & Vertex AI**
 > 
 > A hands-on workshop teaching students to build intelligent AI agents from scratch.
 
@@ -54,11 +54,11 @@ flowchart TD
 
 ## 📖 About This Project
 
-**TravelMate AI** is an intelligent travel assistant designed specifically for **students and young professionals** who want to explore the world on a budget. Built during the DevFest 2025 workshop, this project demonstrates how to create conversational AI agents using Google's Agent Development Kit (ADK).
+**TravelMate AI** is an intelligent travel assistant designed specifically for **students and young professionals** who want to explore the world on a budget. This project demonstrates how to create conversational multi-agent systems using Google's Agent Development Kit (ADK) and Gemini 2.5 Flash.
 
 ### 🎯 Workshop Lab
 
-This project is part of the official DevFest 2025 workshop:
+Follow the interactive hands-on TravelMate AI lab:
 
 **📚 Building AI Agents with Google ADK**  
 🔗 [Workshop Lab Link](https://gradus.dev/studio/labs/view/693125841a594a5445ccb6a4/693125841a594a5445ccb6a5)
@@ -86,7 +86,7 @@ This project is part of the official DevFest 2025 workshop:
 ## 🏗️ Project Structure
 
 ```
-devfest-travel-agent/
+TravelMate-AI/
 │
 ├── travel_mate/           # Main agent
 │   ├── agent.py          # Agent definition & personality
@@ -129,8 +129,8 @@ devfest-travel-agent/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/devfest-2025-travelmate-ai.git
-cd devfest-2025-travelmate-ai
+git clone https://github.com/RobinaMirbahar/TravelMate-AI.git
+cd TravelMate-AI
 
 # 2. Create virtual environment
 python -m venv venv
@@ -150,8 +150,8 @@ adk run travel_mate
 # Navigate to: https://shell.cloud.google.com
 
 # 2. Clone repository
-git clone https://github.com/YOUR_USERNAME/devfest-2025-travelmate-ai.git
-cd devfest-2025-travelmate-ai
+git clone https://github.com/RobinaMirbahar/TravelMate-AI.git
+cd TravelMate-AI
 
 # 3. Set up project
 gcloud config set project YOUR_PROJECT_ID
@@ -492,7 +492,7 @@ uv pip install google-adk
 
 ## 🤝 Contributing
 
-We welcome contributions from DevFest participants and the community!
+We welcome contributions from developers and the open-source AI community!
 
 ### How to Contribute
 
@@ -536,12 +536,12 @@ Google Developer Expert (GDE) — AI + Cloud
 ### Special Thanks
 
 - Google Developer Groups (GDG) community  
-- DevFest 2025 participants  
+- Open-source developers and the Google Cloud AI community  
 - All contributors  
 
 ### GitHub Repo
 
-[![GitHub stars](https://img.shields.io/github/stars/RobinaMirbahar/devfestlahore_2025?style=social)](https://github.com/RobinaMirbahar/devfestlahore_2025)
+[![GitHub stars](https://img.shields.io/github/stars/RobinaMirbahar/TravelMate-AI?style=social)](https://github.com/RobinaMirbahar/TravelMate-AI)
 
 
 ---
@@ -555,7 +555,7 @@ Google Developer Expert (GDE) — AI + Cloud
 cd ~
 
 # Remove project folder
-rm -rf devfest-travel-agent
+rm -rf TravelMate-AI
 ```
 
 ### Disable Google Cloud Services
