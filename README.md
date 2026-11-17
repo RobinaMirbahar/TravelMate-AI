@@ -1,7 +1,7 @@
 # 🌍 TravelMate AI — Budget-Smart Multi-Agent Travel Assistant
 
 [![TravelMate AI](https://img.shields.io/badge/TravelMate_AI-Multi--Agent_ADK-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/RobinaMirbahar/TravelMate-AI)
-[![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google)](https://google.github.io/adk-docs/)
+[![Google ADK](https://img.shields.io/badge/Google-ADK-4285F4?style=for-the-badge&logo=google)](https://google.github.io/adk-docs/?utm_campaign=deveco_gdemembers&utm_source=deveco)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -471,10 +471,10 @@ uv pip install google-adk
 
 ### Official Documentation
 
-- [Google ADK Documentation](https://google.github.io/adk-docs/)
+- [Google ADK Documentation](https://google.github.io/adk-docs/?utm_campaign=deveco_gdemembers&utm_source=deveco)
 - [ADK GitHub Repository](https://github.com/google/adk-python)
-- [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs)
-- [Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
+- [Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs?utm_campaign=deveco_gdemembers&utm_source=deveco)
+- [Gemini API Documentation](https://ai.google.dev/gemini-api/docs?utm_campaign=deveco_gdemembers&utm_source=deveco)
 
 ### Learning Resources
 
@@ -484,8 +484,8 @@ uv pip install google-adk
 
 ### Google Cloud & Vertex AI
 
-- [Vertex AI Agent Builder Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview)
-- [Google Developer Groups](https://developers.google.com/community/gdg)
+- [Vertex AI Agent Builder Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview?utm_campaign=deveco_gdemembers&utm_source=deveco)
+- [Google Developer Groups](https://developers.google.com/community/gdg?utm_campaign=deveco_gdemembers&utm_source=deveco)
 - [Workshop Materials](https://gradus.dev/studio/labs/view/693125841a594a5445ccb6a4/693125841a594a5445ccb6a5)
 
 ---
