@@ -42,16 +42,6 @@ flowchart TD
     U_Req --> A_Root
     A_Root --> A_Route & A_Stay
     A_Route & A_Stay --> A_Budget --> O_Plan
-    style User fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style U_Req fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style ADK fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style A_Root fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
-    style Agent fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style A_Route fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style A_Stay fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style A_Budget fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
-    style Out fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style O_Plan fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
 ```
 
 ---
